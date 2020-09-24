@@ -1,5 +1,5 @@
 # todo-list
-A to-do list script, plus EXE.
+A to-do list app that runs as script, plus another version that's been packed into an EXE file for easier use.
 
 
 If you're interested upgrading this app for personal use or making a similar one, but aren't familiar with the packages used,
